@@ -4,7 +4,7 @@ This Code uses a Raspberry Pi 4. It uses an ultrasonic sensor to detect if someo
 
 <hr>
 
-##Hardware
+## Hardware
 
 * RPi 4 Kit
 * Webcam or RPi Camera
