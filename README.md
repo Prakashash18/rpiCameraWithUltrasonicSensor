@@ -1,1 +1,5 @@
-## This is a README file
+## About this Project
+
+This Code uses a Raspberry Pi 4. It uses the ultrasonic sensor to detect if someone is nearby, takes a photo using the webcam attached and uploads the image to Huawei's ModelArts server using their SDK
+
+<hr>
