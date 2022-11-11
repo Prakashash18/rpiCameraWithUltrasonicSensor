@@ -6,8 +6,8 @@ This Code uses a Raspberry Pi 4. It uses an ultrasonic sensor to detect if someo
 
 ##Hardware
 
-RPi 4 Kit
-Webcam or RPi Camera
-HCSR04 Ultrasonic Sensor
-Speakers
+* RPi 4 Kit
+* Webcam or RPi Camera
+* HCSR04 Ultrasonic Sensor
+* Speakers
 
