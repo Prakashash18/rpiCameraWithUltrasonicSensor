@@ -45,6 +45,7 @@ predictor_instance = Predictor(session, service_id=service_id)
 
 
 #global lock
+#to protect frame read and write among threads
 lock = threading.Lock()
 
 def thread_function(name):
