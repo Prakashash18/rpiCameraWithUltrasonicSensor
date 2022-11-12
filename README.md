@@ -16,7 +16,7 @@ The model was trained to detect fast moving objects like PMD's and Bicycles. Thu
 * Speakers
 
 ## Software
-* Huawei ModelArts SDK and trained model
+* Huawei ModelArts SDK and service ID of a trained model deployed using real-time services.
 
 <hr>
 
