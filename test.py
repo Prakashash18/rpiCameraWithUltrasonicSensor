@@ -29,6 +29,7 @@ GPIO.setup(ECHO, GPIO.IN)
 
 GPIO.output(TRIG, False) 
 
+# parameters required for Huawei ModelArts SDK
 
 access_key="YOUR_ACCESS_KEY_HERE"
 secret_key="YOUR_SECRET_KEY_HERE"
