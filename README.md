@@ -1,6 +1,10 @@
 ## About this Project
 
-This Code uses a Raspberry Pi 4. It uses an ultrasonic sensor to detect if someone is nearby, takes a photo using the webcam attached and uploads the image to Huawei's ModelArts server using their SDK. This model is an Object Detection Model and will return the scores.
+This code is tested on a Raspberry Pi 4. It uses an ultrasonic sensor to detect if someone is nearby, takes a photo using the webcam attached and uploads the image to Huawei's ModelArts server using their SDK. 
+
+The model is an ExeML Object Detection Model and will return the prediction results.
+
+The model was trained to detect fast moving objects like PMD's and Bicycles. Thus the speaker will provide a feedback to the user.
 
 <hr>
 
@@ -10,6 +14,9 @@ This Code uses a Raspberry Pi 4. It uses an ultrasonic sensor to detect if someo
 * Webcam or RPi Camera
 * HCSR04 Ultrasonic Sensor
 * Speakers
+
+## Software
+* Huawei ModelArts SDK and trained model
 
 <hr>
 
